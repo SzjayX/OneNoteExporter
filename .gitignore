@@ -7,3 +7,4 @@ dist/
 *.bak.*
 crash.log
 gui-settings.json
+.claude/
